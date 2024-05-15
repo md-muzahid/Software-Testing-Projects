@@ -56,7 +56,4 @@ If you have any feedback or suggestions for improvements, please feel free to op
 Test Plan
 I have created a Test Plan for the Project
 
-Project name: 
-What.
 
-dad
